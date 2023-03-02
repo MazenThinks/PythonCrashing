@@ -1,11 +1,9 @@
-first = float(input("Enter the first number : "))
-second = float(input("Enter the second number : "))
-sum = first + second
-print(sum)
+course = "Python Crashing"
 
-
-
-
+print(course.upper())
+print(course.find('y'))
+print(course.replace('Crashing', 'damn'))
+print('Python' in course)
 
 
 
