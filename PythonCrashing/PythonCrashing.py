@@ -1,9 +1,30 @@
-course = "Python Crashing"
+# operators
 
-print(course.upper())
-print(course.find('y'))
-print(course.replace('Crashing', 'damn'))
-print('Python' in course)
+print(10 + 3)
+print(10 - 3)
+print(10 * 3)
+print(10 / 3)
+print(10 ** 3) # 10 POWER 3
+print(10 % 3) # MODULE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
